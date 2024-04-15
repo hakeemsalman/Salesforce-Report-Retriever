@@ -26,11 +26,6 @@ conn.login(SF_USERNAME, PASSWORD_TOKEN, (err, userInfo) => {
   }
 })
 
-// const recordsList = [
-//   '00O5Y00000DvWzzUAF',
-//   '00O5Y00000E4ctbUAB'
-// ];
-
 function getReportIdList() {
  const data = fs.readFileSync('./input.txt', { encoding: 'utf8', flag: 'r' });
  return data.trim().split(',');
