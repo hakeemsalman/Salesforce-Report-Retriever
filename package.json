@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsforce": "^1.11.1"
+  },
+  "name": "salesforce-report-retriever",
+  "description": "Helps to retrieve easliy reports from Salesforce Org",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
