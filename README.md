@@ -7,12 +7,11 @@ It Helps to retrieve the reports easliy from Salesforce Org
 1. Copy the URL or Download latest version of code.
 2. Paste into `git` cli
 
-> $ git clone COPIED_URL
-
-> $ cd SALESFORCE-REPORT-RETRIEVER
-
-> $ npm i
-
+```git
+$ git clone COPIED_URL
+$ cd SALESFORCE-REPORT-RETRIEVER
+$ npm i
+```
 ## Add the Credentials
 
 1. Create a `.env` file in current folder.
