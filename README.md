@@ -1,6 +1,6 @@
 # Salesforce-Report-Retriever
 
-It Helps to retrieve the reports easliy from Salesforce Org
+It Helps to retrieve the reports metadata easliy from Salesforce Org
 
 ## Installation
 
